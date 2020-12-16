@@ -32,3 +32,8 @@ Otros Recursos y Tutoriales √∫tiles de temas varios de Ciencias de la Computaci√
 <a href="https://bitcu.co/softaculous/">Virtualizor</a><br>
 <a href="https://bitcu.co/computo-en-la-nube/">Google Cloud</a><br>
 <a href="https://bitcu.co/que-es-python/">Tutorial Python</a><br>
+
+Otros Recursos de Redes
+
+<a href="https://www.stockbitcoin.info/es/192-168-1-254/">192.168.l.254</a><br>
+<a href="https://www.stockbitcoin.info/es/192-168-0-1/">192.168.o.1</a><br>
